@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.head{
+    width: 100%;
+    color: darkcyan;
+    font-family: fantasy;
+    font-size: 25px;
+    text-align: center;
+    font-weight: 400;
+    background-color: darkslategrey;
+}
+.hd{
+    width: 100%;
+}
+.head1{
+    color: rgb(126, 182, 104);
+    font-family: cursive;
+    font-size: 55px;
+    text-align: center;
+    font-weight: 600;
+    background-color: rgb(141, 40, 87);
+}
+fieldset{
+    border-radius: 9em;
+   border-color: azure;   
+   box-shadow: 2px 4px 3px 2px;
+    /* height: 100px; */
+}
+.mid{
+    padding: 30px;
+}
+.end{
+    padding: 10px;
+    border-radius: 3em;
+    margin-left: 50px;
+    color: indianred;
+    border-color: gold;
+    font-size: 20px;
+}
